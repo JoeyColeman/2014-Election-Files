@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<election version="2.0" id="1" nm="City of Hamilton Municipal Election 2014" dt="20141027" tp="General Election" jd="City of Hamilton" des="City of Hamilton&#xD;&#xA;Municipal Election 2014&#xD;&#xA;" ts="2014-09-07 18:24:00" el="353317">
+  <areatypes>
+    <areatype id="1" nm="Municipality" top="1" ab="Mun" des="" pid="" s="1" extid="" />
+    <areatype id="2" nm="Ward" top="0" ab="Ward" des="" pid="1" s="15" extid="" />
+    <areatype id="3" nm="Hamilton-Wentworth District School Board" top="0" ab="EP" des="" pid="1" s="16" extid="" />
+    <areatype id="4" nm="Hamilton-Wentworth Catholic District School Board" top="0" ab="ES" des="" pid="1" s="17" extid="" />
+    <areatype id="5" nm="Conseil Scolaire Viamonde" top="0" ab="FP" des="" pid="1" s="18" extid="" />
+    <areatype id="6" nm="Conseil Scolaire de District Catholique Centre-Sud" top="0" ab="FS" des="" pid="1" s="19" extid="" />
+  </areatypes>
+  <areas>
+    <area id="1" nm="Hamilton" ab="" des="" atid="1" pid="" t="1" el="353317" s="1" extid="" />
+    <area id="2" nm="Ward 1 - Chedoke - Cootes" ab="Ward 1" des="" atid="2" pid="1" t="0" el="20767" s="3" extid="" />
+    <area id="3" nm="Ward 2 - Downtown" ab="Ward 2" des="" atid="2" pid="1" t="0" el="19424" s="4" extid="" />
+    <area id="4" nm="Ward 3 - Hamilton Centre" ab="Ward 3" des="" atid="2" pid="1" t="0" el="23670" s="5" extid="" />
+    <area id="5" nm="Ward 4 - East Hamilton" ab="Ward 4" des="" atid="2" pid="1" t="0" el="23721" s="6" extid="" />
+    <area id="6" nm="Ward 5 - Redhill" ab="Ward 5" des="" atid="2" pid="1" t="0" el="25755" s="7" extid="" />
+    <area id="7" nm="Ward 6 - East Mountain" ab="Ward 6" des="" atid="2" pid="1" t="0" el="28266" s="8" extid="" />
+    <area id="8" nm="Ward 7 - Central Mountain" ab="Ward 7" des="" atid="2" pid="1" t="0" el="40571" s="9" extid="" />
+    <area id="9" nm="Ward 8 - West Mountain" ab="Ward 8" des="" atid="2" pid="1" t="0" el="34259" s="10" extid="" />
+    <area id="10" nm="Ward 9 - Heritage Stoney Creek" ab="Ward 9" des="" atid="2" pid="1" t="0" el="19235" s="11" extid="" />
+    <area id="11" nm="Ward 10 - Stoney Creek" ab="Ward 10" des="" atid="2" pid="1" t="0" el="19350" s="12" extid="" />
+    <area id="12" nm="Ward 11 - Glanbrook, Stoney Creek, Winona" ab="Ward 11" des="" atid="2" pid="1" t="0" el="24655" s="13" extid="" />
+    <area id="13" nm="Ward 12 - Ancaster" ab="Ward 12" des="" atid="2" pid="1" t="0" el="24449" s="14" extid="" />
+    <area id="14" nm="Ward 13 - Community of Dundas" ab="Ward 13" des="" atid="2" pid="1" t="0" el="18439" s="15" extid="" />
+    <area id="15" nm="Ward 14 - Wentworth" ab="Ward 14" des="" atid="2" pid="1" t="0" el="12147" s="16" extid="" />
+    <area id="16" nm="Ward 15 - Flamborough" ab="Ward 15" des="" atid="2" pid="1" t="0" el="18609" s="17" extid="" />
+    <area id="17" nm="HWDSB Wards 1 &amp; 2" ab="" des="" atid="3" pid="1" t="0" el="40191" s="18" extid="" />
+    <area id="18" nm="HWDSB Ward 3" ab="" des="" atid="3" pid="1" t="0" el="23670" s="19" extid="" />
+    <area id="19" nm="HWDSB Ward 4" ab="" des="" atid="3" pid="1" t="0" el="23721" s="20" extid="" />
+    <area id="20" nm="HWDSB Ward 5" ab="" des="" atid="3" pid="1" t="0" el="25755" s="21" extid="" />
+    <area id="21" nm="HWDSB Ward 6" ab="" des="" atid="3" pid="1" t="0" el="28266" s="22" extid="" />
+    <area id="22" nm="HWDSB Ward 7" ab="" des="" atid="3" pid="1" t="0" el="40571" s="23" extid="" />
+    <area id="23" nm="HWDSB Ward 8" ab="" des="" atid="3" pid="1" t="0" el="34259" s="24" extid="" />
+    <area id="24" nm="HWDSB Wards 9 &amp; 10" ab="" des="" atid="3" pid="1" t="0" el="38585" s="25" extid="" />
+    <area id="25" nm="HWDSB Wards 11 &amp; 12" ab="" des="" atid="3" pid="1" t="0" el="49104" s="26" extid="" />
+    <area id="26" nm="HWDSB Wards 13 &amp; 14" ab="" des="" atid="3" pid="1" t="0" el="30586" s="27" extid="" />
+    <area id="27" nm="HWDSB Ward 15" ab="" des="" atid="3" pid="1" t="0" el="18609" s="28" extid="" />
+    <area id="28" nm="HWCDSB Wards 1 &amp; 2" ab="" des="" atid="4" pid="1" t="0" el="40191" s="29" extid="" />
+    <area id="29" nm="HWCDSB Wards 3 &amp; 4" ab="" des="" atid="4" pid="1" t="0" el="47391" s="30" extid="" />
+    <area id="30" nm="HWCDSB Ward 5" ab="" des="" atid="4" pid="1" t="0" el="25755" s="31" extid="" />
+    <area id="31" nm="HWCDSB Ward 6" ab="" des="" atid="4" pid="1" t="0" el="28266" s="32" extid="" />
+    <area id="32" nm="HWCDSB Ward 7" ab="" des="" atid="4" pid="1" t="0" el="40571" s="33" extid="" />
+    <area id="33" nm="HWCDSB Ward 8" ab="" des="" atid="4" pid="1" t="0" el="34259" s="34" extid="" />
+    <area id="34" nm="HWCDSB Wards 9, 10 &amp; 11" ab="" des="" atid="4" pid="1" t="0" el="63240" s="35" extid="" />
+    <area id="35" nm="HWCDSB Wards 12, 13, 14 &amp; 15" ab="" des="" atid="4" pid="1" t="0" el="73644" s="36" extid="" />
+    <area id="36" nm="Conseil Scolaire Viamonde" ab="" des="" atid="5" pid="1" t="0" el="353317" s="37" extid="" />
+    <area id="37" nm="Conseil Scolaire de District Catholique Centre-Sud" ab="" des="" atid="6" pid="1" t="0" el="353317" s="38" extid="" />
+  </areas>
+  <offices>
+    <office id="1" nm="Mayor" atid="1" tp="Candidacy" sys="FPTP" maj="0" s="1" extid="" />
+    <office id="2" nm="Councillor" atid="2" tp="Candidacy" sys="FPTP" maj="0" s="2" extid="" />
+    <office id="3" nm="English Public School Board Trustee" atid="3" tp="Candidacy" sys="FPTP" maj="0" s="17" extid="" />
+    <office id="4" nm="English Separate School Board Trustee" atid="4" tp="Candidacy" sys="FPTP" maj="0" s="28" extid="" />
+    <office id="5" nm="French Public School Board Trustee" atid="5" tp="Candidacy" sys="FPTP" maj="0" s="36" extid="" />
+    <office id="6" nm="French Separate School Board Trustee" atid="6" tp="Candidacy" sys="FPTP" maj="0" s="37" extid="" />
+  </offices>
+  <contests>
+    <contest id="1001" nm="Mayor" aid="1" oid="1" pos="1" wr="0" el="353317" acc="0" dis="0" s="1" extid="" />
+    <contest id="1002" nm="Councillor - Ward 1" aid="2" oid="2" pos="1" wr="0" el="20767" acc="0" dis="0" s="2" extid="" />
+    <contest id="1003" nm="Councillor - Ward 2" aid="3" oid="2" pos="1" wr="0" el="19424" acc="0" dis="0" s="3" extid="" />
+    <contest id="1004" nm="Councillor - Ward 3" aid="4" oid="2" pos="1" wr="0" el="23670" acc="0" dis="0" s="4" extid="" />
+    <contest id="1005" nm="Councillor - Ward 4" aid="5" oid="2" pos="1" wr="0" el="23721" acc="0" dis="0" s="5" extid="" />
+    <contest id="1006" nm="Councillor - Ward 5" aid="6" oid="2" pos="1" wr="0" el="25755" acc="0" dis="0" s="6" extid="" />
+    <contest id="1007" nm="Councillor - Ward 6" aid="7" oid="2" pos="1" wr="0" el="28266" acc="0" dis="0" s="7" extid="" />
+    <contest id="1008" nm="Councillor - Ward 7" aid="8" oid="2" pos="1" wr="0" el="40571" acc="0" dis="0" s="8" extid="" />
+    <contest id="1009" nm="Councillor - Ward 8" aid="9" oid="2" pos="1" wr="0" el="34259" acc="0" dis="0" s="9" extid="" />
+    <contest id="1010" nm="Councillor - Ward 9" aid="10" oid="2" pos="1" wr="0" el="19235" acc="0" dis="0" s="10" extid="" />
+    <contest id="1011" nm="Councillor - Ward 10" aid="11" oid="2" pos="1" wr="0" el="19350" acc="0" dis="0" s="11" extid="" />
+    <contest id="1012" nm="Councillor - Ward 11" aid="12" oid="2" pos="1" wr="0" el="24655" acc="0" dis="0" s="12" extid="" />
+    <contest id="1013" nm="Councillor - Ward 12" aid="13" oid="2" pos="1" wr="0" el="24449" acc="0" dis="0" s="13" extid="" />
+    <contest id="1014" nm="Councillor - Ward 13" aid="14" oid="2" pos="1" wr="0" el="18439" acc="0" dis="0" s="14" extid="" />
+    <contest id="1015" nm="Councillor - Ward 14" aid="15" oid="2" pos="1" wr="0" el="12147" acc="0" dis="0" s="15" extid="" />
+    <contest id="1016" nm="Councillor - Ward 15" aid="16" oid="2" pos="1" wr="0" el="18609" acc="0" dis="0" s="16" extid="" />
+    <contest id="1017" nm="Hamilton-Wentworth District School Board Trustee - Wards 1 &amp; 2" aid="17" oid="3" pos="1" wr="0" el="40191" acc="0" dis="0" s="17" extid="" />
+    <contest id="1018" nm="Hamilton-Wentworth District School Board Trustee - Ward 3" aid="18" oid="3" pos="1" wr="0" el="23670" acc="0" dis="0" s="18" extid="" />
+    <contest id="1019" nm="Hamilton-Wentworth District School Board Trustee - Ward 4" aid="19" oid="3" pos="1" wr="0" el="23721" acc="0" dis="0" s="19" extid="" />
+    <contest id="1020" nm="Hamilton-Wentworth District School Board Trustee - Ward 5" aid="20" oid="3" pos="1" wr="0" el="25755" acc="0" dis="0" s="20" extid="" />
+    <contest id="1021" nm="Hamilton-Wentworth District School Board Trustee - Ward 6" aid="21" oid="3" pos="1" wr="0" el="28266" acc="0" dis="0" s="21" extid="" />
+    <contest id="1022" nm="Hamilton-Wentworth District School Board Trustee - Ward 7" aid="22" oid="3" pos="1" wr="0" el="40571" acc="0" dis="0" s="22" extid="" />
+    <contest id="1023" nm="Hamilton-Wentworth District School Board Trustee - Ward 8" aid="23" oid="3" pos="1" wr="0" el="34259" acc="0" dis="0" s="23" extid="" />
+    <contest id="1024" nm="Hamilton-Wentworth District School Board Trustee - Wards 9 &amp; 10" aid="24" oid="3" pos="1" wr="0" el="38585" acc="0" dis="0" s="24" extid="" />
+    <contest id="1025" nm="Hamilton-Wentworth District School Board Trustee - Wards 11 &amp; 12" aid="25" oid="3" pos="1" wr="0" el="49104" acc="0" dis="0" s="25" extid="" />
+    <contest id="1026" nm="Hamilton-Wentworth District School Board Trustee - Wards 13 &amp; 14" aid="26" oid="3" pos="1" wr="0" el="30586" acc="0" dis="0" s="26" extid="" />
+    <contest id="1027" nm="Hamilton-Wentworth District School Board Trustee - Ward 15" aid="27" oid="3" pos="1" wr="0" el="18609" acc="0" dis="0" s="27" extid="" />
+    <contest id="1028" nm="Hamilton-Wentworth Catholic District School Board Trustee - Wards 1 &amp; 2" aid="28" oid="4" pos="1" wr="0" el="40191" acc="0" dis="0" s="28" extid="" />
+    <contest id="1029" nm="Hamilton-Wentworth Catholic District School Board Trustee - Wards 3 &amp; 4" aid="29" oid="4" pos="1" wr="0" el="47391" acc="0" dis="0" s="29" extid="" />
+    <contest id="1030" nm="Hamilton-Wentworth Catholic District School Board Trustee - Ward 5" aid="30" oid="4" pos="1" wr="0" el="25755" acc="0" dis="0" s="30" extid="" />
+    <contest id="1031" nm="Hamilton-Wentworth Catholic District School Board Trustee - Ward 6" aid="31" oid="4" pos="1" wr="0" el="28266" acc="0" dis="0" s="31" extid="" />
+    <contest id="1032" nm="Hamilton-Wentworth Catholic District School Board Trustee - Ward 7" aid="32" oid="4" pos="1" wr="0" el="40571" acc="0" dis="0" s="32" extid="" />
+    <contest id="1033" nm="Hamilton-Wentworth Catholic District School Board Trustee - Ward 8" aid="33" oid="4" pos="1" wr="0" el="34259" acc="0" dis="0" s="33" extid="" />
+    <contest id="1034" nm="Hamilton-Wentworth Catholic District School Board Trustee - Wards 9, 10 &amp; 11" aid="34" oid="4" pos="2" wr="0" el="63240" acc="0" dis="0" s="34" extid="" />
+    <contest id="1035" nm="Hamilton-Wentworth Catholic District School Board Trustee - Wards 12, 13, 14 &amp; 15" aid="35" oid="4" pos="1" wr="0" el="73644" acc="0" dis="0" s="35" extid="" />
+    <contest id="1036" nm="Conseil Scolaire Viamonde Trustee" aid="36" oid="5" pos="1" wr="0" el="0" acc="0" dis="0" s="36" extid="" />
+    <contest id="1037" nm="Trustee Conseil Scolaire de District Catholique Centre-Sud Trustee" aid="37" oid="6" pos="1" wr="0" el="353317" acc="0" dis="0" s="37" extid="" />
+  </contests>
+  <parties />
+  <choices>
+    <choice id="1" nm="Alexandre BILODEAU" conid="1001" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="1" extid="" />
+    <choice id="2" nm="Gillian CARLETON" conid="1001" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="2" extid="" />
+    <choice id="3" nm="Candace CHAPMAN" conid="1001" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="3" extid="" />
+    <choice id="4" nm="Jonelle FILIGNO" conid="1001" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="4" extid="" />
+    <choice id="5" nm="Robyn GAYLE" conid="1001" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="5" extid="" />
+    <choice id="6" nm="Jasmin GLAESSER" conid="1001" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="6" extid="" />
+    <choice id="7" nm="Brent HAYDEN" conid="1001" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="7" extid="" />
+    <choice id="8" nm="Kaetlyn OSMOND" conid="1001" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="8" extid="" />
+    <choice id="9" nm="Catherine WARD" conid="1001" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="9" extid="" />
+    <choice id="10" nm="Charles HAMELIN" conid="1002" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="10" extid="" />
+    <choice id="11" nm="Eric RADFORD" conid="1002" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="11" extid="" />
+    <choice id="12" nm="Tara WATCHORN" conid="1002" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="12" extid="" />
+    <choice id="13" nm="Derek DROUIN" conid="1003" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="13" extid="" />
+    <choice id="14" nm="Dara HOWELL" conid="1003" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="14" extid="" />
+    <choice id="15" nm="Kaylyn KYLE" conid="1003" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="15" extid="" />
+    <choice id="16" nm="Karina LEBLANC" conid="1003" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="16" extid="" />
+    <choice id="17" nm="Diana MATHESON" conid="1003" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="17" extid="" />
+    <choice id="18" nm="Mark OLDERSHAW" conid="1003" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="18" extid="" />
+    <choice id="19" nm="Kevin REYNOLDS" conid="1003" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="19" extid="" />
+    <choice id="20" nm="Tara WHITTEN" conid="1003" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="20" extid="" />
+    <choice id="21" nm="Hayley WICKENHEISER" conid="1003" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="21" extid="" />
+    <choice id="22" nm="Kaillie HUMPHRIES" conid="1004" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="22" extid="" />
+    <choice id="23" nm="Mike SMITH" conid="1004" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="23" extid="" />
+    <choice id="24" nm="Tessa VIRTUE" conid="1004" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="24" extid="" />
+    <choice id="25" nm="Mikaël KINGSBURY" conid="1005" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="25" extid="" />
+    <choice id="26" nm="Heather MOYSE" conid="1005" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="26" extid="" />
+    <choice id="27" nm="Martin ST. LOUIS" conid="1005" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="27" extid="" />
+    <choice id="28" nm="Jennifer JONES" conid="1006" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="28" extid="" />
+    <choice id="29" nm="Denny MORRISON" conid="1006" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="29" extid="" />
+    <choice id="30" nm="John TAVARES" conid="1006" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="30" extid="" />
+    <choice id="31" nm="Kaitlyn LAWES" conid="1007" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="31" extid="" />
+    <choice id="32" nm="Dominique MALTAIS" conid="1007" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="32" extid="" />
+    <choice id="33" nm="Jonathan TOEWS" conid="1007" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="33" extid="" />
+    <choice id="34" nm="Jill OFFICER" conid="1008" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="34" extid="" />
+    <choice id="35" nm="Mike RIDDLE" conid="1008" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="35" extid="" />
+    <choice id="36" nm="Marc-Édouard VLASIC" conid="1008" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="36" extid="" />
+    <choice id="37" nm="Marie-Ève DROLET" conid="1009" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="37" extid="" />
+    <choice id="38" nm="Dawn MCEWEN" conid="1009" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="38" extid="" />
+    <choice id="39" nm="Shea WEBER" conid="1009" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="39" extid="" />
+    <choice id="40" nm="Jessica HEWITT" conid="1010" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="40" extid="" />
+    <choice id="41" nm="Rosie MACLENNAN" conid="1010" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="41" extid="" />
+    <choice id="42" nm="Kirsten WALL" conid="1010" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="42" extid="" />
+    <choice id="43" nm="Meghan AGOSTA-MARCIANO" conid="1011" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="43" extid="" />
+    <choice id="44" nm="Gabriel BERGEN" conid="1011" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="44" extid="" />
+    <choice id="45" nm="Valérie MALTAIS" conid="1011" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="45" extid="" />
+    <choice id="46" nm="Gillian APPS" conid="1012" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="46" extid="" />
+    <choice id="47" nm="Jeremiah BROWN" conid="1012" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="47" extid="" />
+    <choice id="48" nm="Marianne ST-GELAIS" conid="1012" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="48" extid="" />
+    <choice id="49" nm="Andrew BYRNES" conid="1013" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="49" extid="" />
+    <choice id="50" nm="Mélodie DAOUST" conid="1013" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="50" extid="" />
+    <choice id="51" nm="Kelsey SERWA" conid="1013" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="51" extid="" />
+    <choice id="52" nm="Will CROTHERS" conid="1014" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="52" extid="" />
+    <choice id="53" nm="Laura FORTINO" conid="1014" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="53" extid="" />
+    <choice id="54" nm="Carol HUYNH" conid="1014" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="54" extid="" />
+    <choice id="55" nm="Mark MCMORRIS" conid="1014" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="55" extid="" />
+    <choice id="56" nm="Douglas CSIMA" conid="1015" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="56" extid="" />
+    <choice id="57" nm="Jayna HEFFORD" conid="1015" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="57" extid="" />
+    <choice id="58" nm="Kim LAMARRE" conid="1015" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="58" extid="" />
+    <choice id="59" nm="Robert GIBSON" conid="1016" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="59" extid="" />
+    <choice id="60" nm="Jan HUDEC" conid="1016" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="60" extid="" />
+    <choice id="61" nm="Haley IRWIN" conid="1016" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="61" extid="" />
+    <choice id="62" nm="Charle COURNOYER" conid="1017" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="62" extid="" />
+    <choice id="63" nm="Malcolm HOWARD" conid="1017" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="63" extid="" />
+    <choice id="64" nm="Brianne JENNER" conid="1017" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="64" extid="" />
+    <choice id="65" nm="Rebecca JOHNSTON" conid="1018" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="65" extid="" />
+    <choice id="66" nm="Conlin MCCABE" conid="1018" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="66" extid="" />
+    <choice id="67" nm="Marielle THOMPSON" conid="1018" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="67" extid="" />
+    <choice id="68" nm="Brad JACOBS" conid="1019" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="68" extid="" />
+    <choice id="69" nm="Charline LABONTÉ" conid="1019" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="69" extid="" />
+    <choice id="70" nm="Brian PRICE" conid="1019" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="70" extid="" />
+    <choice id="71" nm="Ashley BRZOZOWICZ" conid="1020" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="71" extid="" />
+    <choice id="72" nm="Ryan FRY" conid="1020" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="72" extid="" />
+    <choice id="73" nm="Geneviève LACASSE" conid="1020" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="73" extid="" />
+    <choice id="74" nm="Janine HANSON" conid="1021" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="74" extid="" />
+    <choice id="75" nm="Ryan HARNDEN" conid="1021" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="75" extid="" />
+    <choice id="76" nm="Jocelyne LAROCQUE" conid="1021" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="76" extid="" />
+    <choice id="77" nm="Caleb FLAXEY" conid="1022" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="77" extid="" />
+    <choice id="78" nm="Krista GULOIEN" conid="1022" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="78" extid="" />
+    <choice id="79" nm="Meaghan MIKKELSON-REID" conid="1022" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="79" extid="" />
+    <choice id="80" nm="Jamie BENN" conid="1023" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="80" extid="" />
+    <choice id="81" nm="Darcy MARQUARDT" conid="1023" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="81" extid="" />
+    <choice id="82" nm="Caroline OUELLETTE" conid="1023" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="82" extid="" />
+    <choice id="83" nm="Patrice BERGERON" conid="1024" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="83" extid="" />
+    <choice id="84" nm="Natalie MASTRACCI" conid="1024" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="84" extid="" />
+    <choice id="85" nm="Marie-Philip POULIN" conid="1024" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="85" extid="" />
+    <choice id="86" nm="Jay BOUWMEESTER" conid="1025" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="86" extid="" />
+    <choice id="87" nm="Duncan KEITH" conid="1025" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="87" extid="" />
+    <choice id="88" nm="Andréanne MORIN" conid="1025" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="88" extid="" />
+    <choice id="89" nm="Jeff CARTER" conid="1026" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="89" extid="" />
+    <choice id="90" nm="Chris KUNITZ" conid="1026" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="90" extid="" />
+    <choice id="91" nm="Lesley THOMPSON" conid="1026" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="91" extid="" />
+    <choice id="92" nm="Sidney CROSBY" conid="1027" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="92" extid="" />
+    <choice id="93" nm="Roberto LUONGO" conid="1027" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="93" extid="" />
+    <choice id="94" nm="Rachelle VIINBERG" conid="1027" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="94" extid="" />
+    <choice id="95" nm="Drew DOUGHTY" conid="1028" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="95" extid="" />
+    <choice id="96" nm="Patrick MARLEAU" conid="1028" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="96" extid="" />
+    <choice id="97" nm="Lauren WILKINSON" conid="1028" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="97" extid="" />
+    <choice id="98" nm="Ryan COCHRANE" conid="1029" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="98" extid="" />
+    <choice id="99" nm="Matt DUCHENE" conid="1029" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="99" extid="" />
+    <choice id="100" nm="Rick NASH" conid="1029" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="100" extid="" />
+    <choice id="101" nm="Ryan GETZLAF" conid="1030" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="101" extid="" />
+    <choice id="102" nm="Corey PERRY" conid="1030" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="102" extid="" />
+    <choice id="103" nm="Adam VAN KOEVERDEN" conid="1030" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="103" extid="" />
+    <choice id="104" nm="Dan HAMHUIS" conid="1031" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="104" extid="" />
+    <choice id="105" nm="Alex PIETRANGELO" conid="1031" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="105" extid="" />
+    <choice id="106" nm="Tonya VERBEEK" conid="1031" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="106" extid="" />
+    <choice id="107" nm="Jennifer ABEL" conid="1032" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="107" extid="" />
+    <choice id="108" nm="Chloé DUFOUR-LAPOINTE" conid="1032" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="108" extid="" />
+    <choice id="109" nm="Carey PRICE" conid="1032" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="109" extid="" />
+    <choice id="110" nm="Patrick CHAN" conid="1033" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="110" extid="" />
+    <choice id="111" nm="Émilie HEYMANS" conid="1033" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="111" extid="" />
+    <choice id="112" nm="Patrick SHARP" conid="1033" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="112" extid="" />
+    <choice id="113" nm="Meaghan BENFEITO" conid="1034" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="113" extid="" />
+    <choice id="114" nm="Melanie BOOTH" conid="1034" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="114" extid="" />
+    <choice id="115" nm="Meagan DUHAMEL" conid="1034" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="115" extid="" />
+    <choice id="116" nm="Lauriane ROUGEAU" conid="1034" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="116" extid="" />
+    <choice id="117" nm="Roseline FILION" conid="1035" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="117" extid="" />
+    <choice id="118" nm="Scott MOIR" conid="1035" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="118" extid="" />
+    <choice id="119" nm="Natalie SPOONER" conid="1035" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="119" extid="" />
+    <choice id="120" nm="Kirsten MOORE-TOWERS" conid="1036" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="120" extid="" />
+    <choice id="121" nm="Shannon SZABADOS" conid="1036" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="121" extid="" />
+    <choice id="122" nm="Antoine VALOIS-FORTIER" conid="1036" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="122" extid="" />
+    <choice id="123" nm="Christine GIRARD" conid="1037" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="123" extid="" />
+    <choice id="124" nm="Dylan MOSCOVITCH" conid="1037" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="124" extid="" />
+    <choice id="125" nm="Jenn WAKEFIELD" conid="1037" wr="0" dis="0" inc="0" fnm="" lnm="" gen="Unknown" s="125" extid="" />
+  </choices>
+  <affiliations />
+  <electorgroups>
+    <electorgroup id="1" nm="Default" ab="Def" t="1" s="1" extid="" />
+    <electorgroup id="2" nm="English Public" ab="EP" t="0" s="101" extid="" />
+    <electorgroup id="3" nm="English Separate" ab="ES" t="0" s="102" extid="" />
+    <electorgroup id="4" nm="French Public" ab="FP" t="0" s="103" extid="" />
+    <electorgroup id="5" nm="French Separate" ab="FS" t="0" s="104" extid="" />
+    <electorgroup id="6" nm="Municipal" ab="Mun" t="0" s="105" extid="" />
+  </electorgroups>
+  <combinations>
+    <combo id="1" nm="English-Language Public School" extid="" />
+    <combo id="2" nm="English-Language Separate School" extid="" />
+    <combo id="3" nm="French-Language Public School" extid="" />
+    <combo id="4" nm="French-Language Separate School" extid="" />
+    <combo id="5" nm="No School Trustee" extid="" />
+  </combinations>
+  <combohasgroups>
+    <chg gid="1" cid="1" s="1" />
+    <chg gid="6" cid="1" s="2" />
+    <chg gid="2" cid="1" s="3" />
+    <chg gid="1" cid="2" s="4" />
+    <chg gid="3" cid="2" s="5" />
+    <chg gid="6" cid="2" s="6" />
+    <chg gid="1" cid="3" s="7" />
+    <chg gid="4" cid="3" s="8" />
+    <chg gid="6" cid="3" s="9" />
+    <chg gid="1" cid="4" s="10" />
+    <chg gid="6" cid="4" s="11" />
+    <chg gid="5" cid="4" s="12" />
+    <chg gid="1" cid="5" s="13" />
+    <chg gid="6" cid="5" s="14" />
+  </combohasgroups>
+  <countinggroups>
+    <countinggroup id="1" name="Election Day" extid="" />
+    <countinggroup id="2" name="Advance" extid="2" />
+    <countinggroup id="3" name="Viamonde Municipalities" extid="3" />
+  </countinggroups>
+</election>

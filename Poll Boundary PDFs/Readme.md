@@ -2,4 +2,5 @@
 ===================================================
 
 The files in this directory were obtained from the City of Hamilton, and are public domain. 
-Please note I'm going to soon obtain this data as GIS files, and will upload to another directory.
+
+The City will release this data in GIS formats during the week of September 9, 2014 
